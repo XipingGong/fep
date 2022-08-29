@@ -1,0 +1,33 @@
+REMARK  NONE *                                                                        
+REMARK   DATE:     8/15/22     18:33:39      CREATED BY USER: ping                    
+ATOM      1  CB  GLUS    1       1.452   0.000  -1.994  1.00  0.00      SEG1
+ATOM      2  HB1 GLUS    1       1.986  -0.902  -1.624  1.00  0.00      SEG1
+ATOM      3  HB2 GLUS    1       2.024   0.878  -1.622  1.00  0.00      SEG1
+ATOM      4  HB3 GLUS    1       1.493   0.000  -3.104  1.00  0.00      SEG1
+ATOM      5  CG  GLUS    1      -0.000   0.000  -1.522  1.00  0.00      SEG1
+ATOM      6  HG1 GLUS    1      -0.511   0.926  -1.860  1.00  0.00      SEG1
+ATOM      7  HG2 GLUS    1      -0.534  -0.885  -1.929  1.00  0.00      SEG1
+ATOM      8  CD  GLUS    1      -0.000   0.000   0.000  1.00  0.00      SEG1
+ATOM      9  OE1 GLUS    1      -1.113  -0.000   0.592  1.00  0.00      SEG1
+ATOM     10  OE2 GLUS    1       1.112   0.017   0.592  1.00  0.00      SEG1
+ATOM     11  CB  ARGS    2       2.171   0.000  18.034  1.00  0.00      SEG2
+ATOM     12  HB1 ARGS    2       2.780   0.913  17.857  1.00  0.00      SEG2
+ATOM     13  HB2 ARGS    2       2.864  -0.855  17.884  1.00  0.00      SEG2
+ATOM     14  HB3 ARGS    2       1.838   0.000  19.094  1.00  0.00      SEG2
+ATOM     15  CG  ARGS    2       0.959   0.000  17.104  1.00  0.00      SEG2
+ATOM     16  HG1 ARGS    2       0.290  -0.853  17.348  1.00  0.00      SEG2
+ATOM     17  HG2 ARGS    2       0.336   0.902  17.289  1.00  0.00      SEG2
+ATOM     18  CD  ARGS    2       1.290   0.000  15.610  1.00  0.00      SEG2
+ATOM     19  HD1 ARGS    2       1.893   0.897  15.353  1.00  0.00      SEG2
+ATOM     20  HD2 ARGS    2       1.867  -0.912  15.347  1.00  0.00      SEG2
+ATOM     21  NE  ARGS    2       0.000   0.000  14.865  1.00  0.00      SEG2
+ATOM     22  HE  ARGS    2      -0.865  -0.000  15.365  1.00  0.00      SEG2
+ATOM     23  CZ  ARGS    2       0.000   0.000  13.500  1.00  0.00      SEG2
+ATOM     24  NH1 ARGS    2      -1.182  -0.000  12.818  1.00  0.00      SEG2
+ATOM     25 HH11 ARGS    2      -1.182  -0.026  11.818  1.00  0.00      SEG2
+ATOM     26 HH12 ARGS    2      -2.045  -0.107  13.312  1.00  0.00      SEG2
+ATOM     27  NH2 ARGS    2       1.182   0.028  12.818  1.00  0.00      SEG2
+ATOM     28 HH21 ARGS    2       1.182   0.117  11.821  1.00  0.00      SEG2
+ATOM     29 HH22 ARGS    2       2.041   0.169  13.310  1.00  0.00      SEG2
+TER      30      ARGS     2
+END

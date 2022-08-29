@@ -1,0 +1,28 @@
+REMARK  NONE *                                                                        
+REMARK   DATE:     8/13/22     10:33: 0      CREATED BY USER: ping                    
+ATOM      1  CB  HSDS    1      -2.512   0.262  -1.299  1.00  0.00      SEG1
+ATOM      2  HB1 HSDS    1      -2.618  -0.075  -0.245  1.00  0.00      SEG1
+ATOM      3  HB2 HSDS    1      -3.273  -0.288  -1.893  1.00  0.00      SEG1
+ATOM      4  HB3 HSDS    1      -2.728   1.351  -1.354  1.00  0.00      SEG1
+ATOM      5  ND1 HSDS    1      -0.000   0.000  -1.000  1.00  0.00      SEG1
+ATOM      6  HD1 HSDS    1      -0.000   0.000   0.000  1.00  0.00      SEG1
+ATOM      7  CG  HSDS    1      -1.123  -0.000  -1.801  1.00  0.00      SEG1
+ATOM      8  CE1 HSDS    1       1.083  -0.121  -1.814  1.00  0.00      SEG1
+ATOM      9  HE1 HSDS    1       2.102  -0.165  -1.430  1.00  0.00      SEG1
+ATOM     10  NE2 HSDS    1       0.716  -0.181  -3.075  1.00  0.00      SEG1
+ATOM     11  CD2 HSDS    1      -0.663  -0.119  -3.075  1.00  0.00      SEG1
+ATOM     12  HD2 HSDS    1      -1.205  -0.137  -4.013  1.00  0.00      SEG1
+ATOM     13  CB  HSDS    2      -1.511   0.161  16.886  1.00  0.00      SEG2
+ATOM     14  HB1 HSDS    2      -0.967  -0.261  17.758  1.00  0.00      SEG2
+ATOM     15  HB2 HSDS    2      -2.482  -0.375  16.819  1.00  0.00      SEG2
+ATOM     16  HB3 HSDS    2      -1.704   1.239  17.067  1.00  0.00      SEG2
+ATOM     17  ND1 HSDS    2       0.675  -0.012  15.597  1.00  0.00      SEG2
+ATOM     18  HD1 HSDS    2       1.275  -0.088  16.393  1.00  0.00      SEG2
+ATOM     19  CG  HSDS    2      -0.704  -0.000  15.631  1.00  0.00      SEG2
+ATOM     20  CE1 HSDS    2       1.051  -0.022  14.290  1.00  0.00      SEG2
+ATOM     21  HE1 HSDS    2       2.096  -0.051  13.981  1.00  0.00      SEG2
+ATOM     22  NE2 HSDS    2       0.000   0.000  13.500  1.00  0.00      SEG2
+ATOM     23  CD2 HSDS    2      -1.102  -0.000  14.331  1.00  0.00      SEG2
+ATOM     24  HD2 HSDS    2      -2.098   0.030  13.907  1.00  0.00      SEG2
+TER      25      HSDS     2
+END

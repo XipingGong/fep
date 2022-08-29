@@ -1,0 +1,33 @@
+REMARK  NONE *                                                                        
+REMARK   DATE:     8/12/22     17:51:15      CREATED BY USER: ping                    
+ATOM      1  CB  PHES    1      -0.796  -1.258  -0.062  1.00  0.00      SEG1
+ATOM      2  HB1 PHES    1      -1.788  -1.086   0.409  1.00  0.00      SEG1
+ATOM      3  HB2 PHES    1      -0.315  -2.119   0.449  1.00  0.00      SEG1
+ATOM      4  HB3 PHES    1      -0.943  -1.508  -1.134  1.00  0.00      SEG1
+ATOM      5  CG  PHES    1       0.000   0.000   0.000  1.00  0.00      SEG1
+ATOM      6  CD1 PHES    1      -0.589   1.242   0.019  1.00  0.00      SEG1
+ATOM      7  HD1 PHES    1      -1.666   1.329   0.028  1.00  0.00      SEG1
+ATOM      8  CE1 PHES    1       0.192   2.374   0.022  1.00  0.00      SEG1
+ATOM      9  HE1 PHES    1      -0.271   3.349   0.040  1.00  0.00      SEG1
+ATOM     10  CZ  PHES    1       1.563   2.263   0.008  1.00  0.00      SEG1
+ATOM     11  HZ  PHES    1       2.182   3.148   0.012  1.00  0.00      SEG1
+ATOM     12  CD2 PHES    1       1.375   0.000   0.000  1.00  0.00      SEG1
+ATOM     13  HD2 PHES    1       1.915  -0.935  -0.021  1.00  0.00      SEG1
+ATOM     14  CE2 PHES    1       2.062   1.191   0.000  1.00  0.00      SEG1
+ATOM     15  HE2 PHES    1       3.142   1.191  -0.009  1.00  0.00      SEG1
+ATOM     16  CB  LEUS    2       0.000   2.400  13.500  1.00  0.00      SEG2
+ATOM     17  HB1 LEUS    2       0.005   2.783  12.457  1.00  0.00      SEG2
+ATOM     18  HB2 LEUS    2       0.904   2.837  13.976  1.00  0.00      SEG2
+ATOM     19  HB3 LEUS    2      -0.904   2.782  14.022  1.00  0.00      SEG2
+ATOM     20  CG  LEUS    2       0.000   0.862  13.500  1.00  0.00      SEG2
+ATOM     21  HG  LEUS    2       0.061   0.480  14.542  1.00  0.00      SEG2
+ATOM     22  CD1 LEUS    2       1.217   0.236  12.797  1.00  0.00      SEG2
+ATOM     23 HD11 LEUS    2       1.176  -0.871  12.877  1.00  0.00      SEG2
+ATOM     24 HD12 LEUS    2       1.224   0.518  11.723  1.00  0.00      SEG2
+ATOM     25 HD13 LEUS    2       2.156   0.594  13.271  1.00  0.00      SEG2
+ATOM     26  CD2 LEUS    2      -1.260   0.236  12.879  1.00  0.00      SEG2
+ATOM     27 HD21 LEUS    2      -1.184  -0.872  12.895  1.00  0.00      SEG2
+ATOM     28 HD22 LEUS    2      -2.160   0.538  13.455  1.00  0.00      SEG2
+ATOM     29 HD23 LEUS    2      -1.370   0.567  11.824  1.00  0.00      SEG2
+TER      30      LEUS     2
+END

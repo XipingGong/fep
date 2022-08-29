@@ -1,0 +1,43 @@
+REMARK  NONE *                                                                        
+REMARK   DATE:     8/13/22      8:44:57      CREATED BY USER: ping                    
+ATOM      1  CB  LYSS    1      -0.004  -2.866  -5.191  1.00  0.00      SEG1
+ATOM      2  HB1 LYSS    1       0.900  -2.364  -5.597  1.00  0.00      SEG1
+ATOM      3  HB2 LYSS    1      -0.874  -2.348  -5.648  1.00  0.00      SEG1
+ATOM      4  HB3 LYSS    1      -0.004  -3.922  -5.538  1.00  0.00      SEG1
+ATOM      5  CG  LYSS    1      -0.002  -2.816  -3.664  1.00  0.00      SEG1
+ATOM      6  HG1 LYSS    1      -0.898  -3.338  -3.264  1.00  0.00      SEG1
+ATOM      7  HG2 LYSS    1       0.880  -3.361  -3.265  1.00  0.00      SEG1
+ATOM      8  CD  LYSS    1      -0.002  -1.408  -3.064  1.00  0.00      SEG1
+ATOM      9  HD1 LYSS    1       0.880  -0.838  -3.427  1.00  0.00      SEG1
+ATOM     10  HD2 LYSS    1      -0.891  -0.843  -3.416  1.00  0.00      SEG1
+ATOM     11  CE  LYSS    1      -0.000  -1.394  -1.534  1.00  0.00      SEG1
+ATOM     12  HE1 LYSS    1      -0.904  -1.912  -1.147  1.00  0.00      SEG1
+ATOM     13  HE2 LYSS    1       0.904  -1.913  -1.149  1.00  0.00      SEG1
+ATOM     14  NZ  LYSS    1      -0.000   0.000  -1.040  1.00  0.00      SEG1
+ATOM     15  HZ1 LYSS    1      -0.000   0.000   0.000  1.00  0.00      SEG1
+ATOM     16  HZ2 LYSS    1       0.847   0.492  -1.390  1.00  0.00      SEG1
+ATOM     17  HZ3 LYSS    1      -0.849   0.492  -1.388  1.00  0.00      SEG1
+ATOM     18  CL  ALAD    2       4.663   0.000  13.893  1.00  0.00      SEG2
+ATOM     19  HL1 ALAD    2       5.670   0.000  14.363  1.00  0.00      SEG2
+ATOM     20  HL2 ALAD    2       4.550   0.907  13.262  1.00  0.00      SEG2
+ATOM     21  HL3 ALAD    2       4.550  -0.907  13.262  1.00  0.00      SEG2
+ATOM     22  CLP ALAD    2       3.619   0.000  14.956  1.00  0.00      SEG2
+ATOM     23  OL  ALAD    2       3.927   0.000  16.147  1.00  0.00      SEG2
+ATOM     24  NL  ALAD    2       2.341   0.000  14.541  1.00  0.00      SEG2
+ATOM     25  HL  ALAD    2       2.082   0.000  13.578  1.00  0.00      SEG2
+ATOM     26  CA  ALAD    2       1.277   0.000  15.497  1.00  0.00      SEG2
+ATOM     27  HA  ALAD    2       1.324  -0.882  16.119  1.00  0.00      SEG2
+ATOM     28  CB  ALAD    2       1.308   1.267  16.369  1.00  0.00      SEG2
+ATOM     29  HB1 ALAD    2       1.259   2.173  15.728  1.00  0.00      SEG2
+ATOM     30  HB2 ALAD    2       0.475   1.245  17.104  1.00  0.00      SEG2
+ATOM     31  HB3 ALAD    2       2.249   1.302  16.958  1.00  0.00      SEG2
+ATOM     32  CRP ALAD    2       0.000   0.000  14.730  1.00  0.00      SEG2
+ATOM     33  OR  ALAD    2       0.000   0.000  13.500  1.00  0.00      SEG2
+ATOM     34  NR  ALAD    2      -1.134  -0.000  15.453  1.00  0.00      SEG2
+ATOM     35  HR  ALAD    2      -1.143  -0.000  16.450  1.00  0.00      SEG2
+ATOM     36  CR  ALAD    2      -2.403  -0.000  14.792  1.00  0.00      SEG2
+ATOM     37  HR1 ALAD    2      -3.215  -0.000  15.550  1.00  0.00      SEG2
+ATOM     38  HR2 ALAD    2      -2.490  -0.907  14.157  1.00  0.00      SEG2
+ATOM     39  HR3 ALAD    2      -2.490   0.907  14.157  1.00  0.00      SEG2
+TER      40      ALAD     2
+END

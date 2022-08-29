@@ -1,0 +1,26 @@
+REMARK  NONE *                                                                        
+REMARK   DATE:     8/12/22     23:32:31      CREATED BY USER: ping                    
+ATOM      1  CB  LEUS    1       0.993  -0.993  -2.164  1.00  0.00      SEG1
+ATOM      2  HB1 LEUS    1       0.755  -2.029  -1.839  1.00  0.00      SEG1
+ATOM      3  HB2 LEUS    1       2.044  -0.822  -1.843  1.00  0.00      SEG1
+ATOM      4  HB3 LEUS    1       0.940  -0.940  -3.272  1.00  0.00      SEG1
+ATOM      5  CG  LEUS    1      -0.000   0.000  -1.538  1.00  0.00      SEG1
+ATOM      6  HG  LEUS    1       0.279   1.041  -1.810  1.00  0.00      SEG1
+ATOM      7  CD1 LEUS    1      -0.000   0.000   0.000  1.00  0.00      SEG1
+ATOM      8 HD11 LEUS    1      -0.702   0.771   0.382  1.00  0.00      SEG1
+ATOM      9 HD12 LEUS    1      -0.317  -0.993   0.382  1.00  0.00      SEG1
+ATOM     10 HD13 LEUS    1       1.019   0.226   0.382  1.00  0.00      SEG1
+ATOM     11  CD2 LEUS    1      -1.455  -0.197  -1.997  1.00  0.00      SEG1
+ATOM     12 HD21 LEUS    1      -2.117   0.539  -1.493  1.00  0.00      SEG1
+ATOM     13 HD22 LEUS    1      -1.532  -0.050  -3.095  1.00  0.00      SEG1
+ATOM     14 HD23 LEUS    1      -1.802  -1.220  -1.736  1.00  0.00      SEG1
+ATOM     15  H11 ETHA    2       0.270   1.008  13.118  1.00  0.00      SEG2
+ATOM     16  H12 ETHA    2      -1.008  -0.270  13.118  1.00  0.00      SEG2
+ATOM     17  H13 ETHA    2       0.738  -0.738  13.118  1.00  0.00      SEG2
+ATOM     18  C1  ETHA    2       0.000   0.000  13.500  1.00  0.00      SEG2
+ATOM     19  H21 ETHA    2      -0.738   0.738  15.412  1.00  0.00      SEG2
+ATOM     20  H22 ETHA    2      -0.270  -1.008  15.412  1.00  0.00      SEG2
+ATOM     21  H23 ETHA    2       1.008   0.270  15.412  1.00  0.00      SEG2
+ATOM     22  C2  ETHA    2       0.000   0.000  15.030  1.00  0.00      SEG2
+TER      23      ETHA     2
+END

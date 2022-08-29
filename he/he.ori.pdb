@@ -1,0 +1,26 @@
+REMARK  NONE *                                                                        
+REMARK   DATE:     8/13/22     10:41:33      CREATED BY USER: ping                    
+ATOM      1  CB  GLUS    1      -1.079  -0.000  -3.479  1.00  0.00      SEG1
+ATOM      2  HB1 GLUS    1      -0.501  -0.902  -3.776  1.00  0.00      SEG1
+ATOM      3  HB2 GLUS    1      -0.482   0.878  -3.809  1.00  0.00      SEG1
+ATOM      4  HB3 GLUS    1      -2.039  -0.000  -4.037  1.00  0.00      SEG1
+ATOM      5  CG  GLUS    1      -1.344  -0.000  -1.975  1.00  0.00      SEG1
+ATOM      6  HG1 GLUS    1      -1.883   0.926  -1.682  1.00  0.00      SEG1
+ATOM      7  HG2 GLUS    1      -1.954  -0.885  -1.694  1.00  0.00      SEG1
+ATOM      8  CD  GLUS    1      -0.000   0.000  -1.260  1.00  0.00      SEG1
+ATOM      9  OE1 GLUS    1      -0.000   0.000   0.000  1.00  0.00      SEG1
+ATOM     10  OE2 GLUS    1       1.045   0.017  -1.964  1.00  0.00      SEG1
+ATOM     11  CB  HSDS    2       2.512   0.262  14.799  1.00  0.00      SEG2
+ATOM     12  HB1 HSDS    2       2.618  -0.075  13.745  1.00  0.00      SEG2
+ATOM     13  HB2 HSDS    2       3.273  -0.288  15.393  1.00  0.00      SEG2
+ATOM     14  HB3 HSDS    2       2.728   1.351  14.854  1.00  0.00      SEG2
+ATOM     15  ND1 HSDS    2       0.000   0.000  14.500  1.00  0.00      SEG2
+ATOM     16  HD1 HSDS    2       0.000   0.000  13.500  1.00  0.00      SEG2
+ATOM     17  CG  HSDS    2       1.123   0.000  15.301  1.00  0.00      SEG2
+ATOM     18  CE1 HSDS    2      -1.083  -0.121  15.314  1.00  0.00      SEG2
+ATOM     19  HE1 HSDS    2      -2.102  -0.165  14.930  1.00  0.00      SEG2
+ATOM     20  NE2 HSDS    2      -0.716  -0.181  16.575  1.00  0.00      SEG2
+ATOM     21  CD2 HSDS    2       0.663  -0.119  16.575  1.00  0.00      SEG2
+ATOM     22  HD2 HSDS    2       1.205  -0.137  17.513  1.00  0.00      SEG2
+TER      23      HSDS     2
+END

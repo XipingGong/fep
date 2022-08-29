@@ -1,0 +1,45 @@
+REMARK  NONE *                                                                        
+REMARK   DATE:     8/13/22     13:15:18      CREATED BY USER: ping                    
+ATOM      1  CL  ALAD    1      -0.000  -4.663  -0.393  1.00  0.00      SEG1
+ATOM      2  HL1 ALAD    1      -0.000  -5.670  -0.863  1.00  0.00      SEG1
+ATOM      3  HL2 ALAD    1      -0.907  -4.550   0.238  1.00  0.00      SEG1
+ATOM      4  HL3 ALAD    1       0.907  -4.550   0.238  1.00  0.00      SEG1
+ATOM      5  CLP ALAD    1      -0.000  -3.619  -1.456  1.00  0.00      SEG1
+ATOM      6  OL  ALAD    1      -0.000  -3.927  -2.647  1.00  0.00      SEG1
+ATOM      7  NL  ALAD    1      -0.000  -2.341  -1.041  1.00  0.00      SEG1
+ATOM      8  HL  ALAD    1      -0.000  -2.082  -0.078  1.00  0.00      SEG1
+ATOM      9  CA  ALAD    1      -0.000  -1.277  -1.997  1.00  0.00      SEG1
+ATOM     10  HA  ALAD    1       0.882  -1.324  -2.619  1.00  0.00      SEG1
+ATOM     11  CB  ALAD    1      -1.267  -1.308  -2.869  1.00  0.00      SEG1
+ATOM     12  HB1 ALAD    1      -2.173  -1.259  -2.228  1.00  0.00      SEG1
+ATOM     13  HB2 ALAD    1      -1.245  -0.475  -3.604  1.00  0.00      SEG1
+ATOM     14  HB3 ALAD    1      -1.302  -2.249  -3.458  1.00  0.00      SEG1
+ATOM     15  CRP ALAD    1      -0.000   0.000  -1.230  1.00  0.00      SEG1
+ATOM     16  OR  ALAD    1      -0.000   0.000   0.000  1.00  0.00      SEG1
+ATOM     17  NR  ALAD    1      -0.000   1.134  -1.953  1.00  0.00      SEG1
+ATOM     18  HR  ALAD    1      -0.000   1.143  -2.950  1.00  0.00      SEG1
+ATOM     19  CR  ALAD    1      -0.000   2.403  -1.292  1.00  0.00      SEG1
+ATOM     20  HR1 ALAD    1      -0.000   3.215  -2.050  1.00  0.00      SEG1
+ATOM     21  HR2 ALAD    1       0.907   2.490  -0.657  1.00  0.00      SEG1
+ATOM     22  HR3 ALAD    1      -0.907   2.490  -0.657  1.00  0.00      SEG1
+ATOM     23  CB  TRPS    2      -1.640   0.271  17.802  1.00  0.00      SEG2
+ATOM     24  HB1 TRPS    2      -1.109  -0.139  18.688  1.00  0.00      SEG2
+ATOM     25  HB2 TRPS    2      -2.614  -0.260  17.739  1.00  0.00      SEG2
+ATOM     26  HB3 TRPS    2      -1.826   1.354  17.963  1.00  0.00      SEG2
+ATOM     27  CG  TRPS    2      -0.773   0.086  16.580  1.00  0.00      SEG2
+ATOM     28  CD1 TRPS    2      -1.129   0.050  15.262  1.00  0.00      SEG2
+ATOM     29  HD1 TRPS    2      -2.142   0.090  14.890  1.00  0.00      SEG2
+ATOM     30  NE1 TRPS    2       0.000   0.000  14.476  1.00  0.00      SEG2
+ATOM     31  HE1 TRPS    2       0.000   0.000  13.500  1.00  0.00      SEG2
+ATOM     32  CE2 TRPS    2       1.112   0.000  15.284  1.00  0.00      SEG2
+ATOM     33  CD2 TRPS    2       0.668   0.055  16.610  1.00  0.00      SEG2
+ATOM     34  CE3 TRPS    2       1.535   0.087  17.666  1.00  0.00      SEG2
+ATOM     35  HE3 TRPS    2       1.191   0.126  18.689  1.00  0.00      SEG2
+ATOM     36  CZ3 TRPS    2       2.884   0.058  17.395  1.00  0.00      SEG2
+ATOM     37  HZ3 TRPS    2       3.598   0.077  18.204  1.00  0.00      SEG2
+ATOM     38  CZ2 TRPS    2       2.411  -0.026  15.062  1.00  0.00      SEG2
+ATOM     39  HZ2 TRPS    2       2.755  -0.066  14.039  1.00  0.00      SEG2
+ATOM     40  CH2 TRPS    2       3.321   0.002  16.092  1.00  0.00      SEG2
+ATOM     41  HH2 TRPS    2       4.379  -0.022  15.879  1.00  0.00      SEG2
+TER      42      TRPS     2
+END

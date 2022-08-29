@@ -1,0 +1,31 @@
+REMARK  NONE *                                                                        
+REMARK   DATE:     8/12/22     22:53:46      CREATED BY USER: ping                    
+ATOM      1  CB  TRPS    1       3.234  -1.839   0.144  1.00  0.00      SEG1
+ATOM      2  HB1 TRPS    1       3.917  -1.076  -0.288  1.00  0.00      SEG1
+ATOM      3  HB2 TRPS    1       3.431  -2.788  -0.400  1.00  0.00      SEG1
+ATOM      4  HB3 TRPS    1       3.482  -1.979   1.218  1.00  0.00      SEG1
+ATOM      5  CG  TRPS    1       1.827  -1.360   0.015  1.00  0.00      SEG1
+ATOM      6  CD1 TRPS    1       0.695  -2.123   0.026  1.00  0.00      SEG1
+ATOM      7  HD1 TRPS    1       0.668  -3.202   0.068  1.00  0.00      SEG1
+ATOM      8  NE1 TRPS    1      -0.410  -1.307   0.018  1.00  0.00      SEG1
+ATOM      9  HE1 TRPS    1      -1.334  -1.618   0.055  1.00  0.00      SEG1
+ATOM     10  CE2 TRPS    1       0.000   0.000   0.000  1.00  0.00      SEG1
+ATOM     11  CD2 TRPS    1       1.385   0.000   0.000  1.00  0.00      SEG1
+ATOM     12  CE3 TRPS    1       2.034   1.195   0.000  1.00  0.00      SEG1
+ATOM     13  HE3 TRPS    1       3.112   1.261  -0.003  1.00  0.00      SEG1
+ATOM     14  CZ3 TRPS    1       1.182   2.274  -0.004  1.00  0.00      SEG1
+ATOM     15  HZ3 TRPS    1       1.581   3.278  -0.009  1.00  0.00      SEG1
+ATOM     16  CZ2 TRPS    1      -0.687   0.798  -0.003  1.00  0.00      SEG1
+ATOM     17  HZ2 TRPS    1      -1.756   0.642  -0.002  1.00  0.00      SEG1
+ATOM     18  CH2 TRPS    1      -0.179   2.076  -0.006  1.00  0.00      SEG1
+ATOM     19  HH2 TRPS    1      -0.848   2.923  -0.011  1.00  0.00      SEG1
+ATOM     20  H11 ETHA    2       1.482   1.722  14.092  1.00  0.00      SEG2
+ATOM     21  H12 ETHA    2       0.579   1.722  12.527  1.00  0.00      SEG2
+ATOM     22  H13 ETHA    2       1.031   0.157  13.309  1.00  0.00      SEG2
+ATOM     23  C1  ETHA    2       0.700   1.200  13.500  1.00  0.00      SEG2
+ATOM     24  H21 ETHA    2      -0.956   2.243  14.456  1.00  0.00      SEG2
+ATOM     25  H22 ETHA    2      -1.407   0.678  13.673  1.00  0.00      SEG2
+ATOM     26  H23 ETHA    2      -0.504   0.678  15.238  1.00  0.00      SEG2
+ATOM     27  C2  ETHA    2      -0.625   1.200  14.265  1.00  0.00      SEG2
+TER      28      ETHA     2
+END

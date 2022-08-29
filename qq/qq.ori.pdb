@@ -1,0 +1,28 @@
+REMARK  NONE *                                                                        
+REMARK   DATE:     8/13/22     11:33: 5      CREATED BY USER: ping                    
+ATOM      1  CB  GLNS    1       1.452   0.000  -1.994  1.00  0.00      SEG1
+ATOM      2  HB1 GLNS    1       1.982  -0.904  -1.624  1.00  0.00      SEG1
+ATOM      3  HB2 GLNS    1       2.038   0.868  -1.622  1.00  0.00      SEG1
+ATOM      4  HB3 GLNS    1       1.493   0.000  -3.104  1.00  0.00      SEG1
+ATOM      5  CG  GLNS    1      -0.000   0.000  -1.522  1.00  0.00      SEG1
+ATOM      6  HG1 GLNS    1      -0.518   0.915  -1.880  1.00  0.00      SEG1
+ATOM      7  HG2 GLNS    1      -0.534  -0.886  -1.929  1.00  0.00      SEG1
+ATOM      8  CD  GLNS    1      -0.000   0.000   0.000  1.00  0.00      SEG1
+ATOM      9  OE1 GLNS    1      -1.054  -0.000   0.633  1.00  0.00      SEG1
+ATOM     10  NE2 GLNS    1       1.217  -0.009   0.607  1.00  0.00      SEG1
+ATOM     11 HE21 GLNS    1       1.278  -0.014   1.605  1.00  0.00      SEG1
+ATOM     12 HE22 GLNS    1       2.051   0.005   0.055  1.00  0.00      SEG1
+ATOM     13  CB  GLNS    2      -1.452  -0.000  15.494  1.00  0.00      SEG2
+ATOM     14  HB1 GLNS    2      -1.982  -0.904  15.124  1.00  0.00      SEG2
+ATOM     15  HB2 GLNS    2      -2.038   0.868  15.122  1.00  0.00      SEG2
+ATOM     16  HB3 GLNS    2      -1.493  -0.000  16.604  1.00  0.00      SEG2
+ATOM     17  CG  GLNS    2       0.000   0.000  15.022  1.00  0.00      SEG2
+ATOM     18  HG1 GLNS    2       0.518   0.915  15.380  1.00  0.00      SEG2
+ATOM     19  HG2 GLNS    2       0.534  -0.886  15.429  1.00  0.00      SEG2
+ATOM     20  CD  GLNS    2       0.000   0.000  13.500  1.00  0.00      SEG2
+ATOM     21  OE1 GLNS    2       1.054   0.000  12.867  1.00  0.00      SEG2
+ATOM     22  NE2 GLNS    2      -1.217  -0.009  12.893  1.00  0.00      SEG2
+ATOM     23 HE21 GLNS    2      -1.278  -0.014  11.895  1.00  0.00      SEG2
+ATOM     24 HE22 GLNS    2      -2.051   0.005  13.445  1.00  0.00      SEG2
+TER      25      GLNS     2
+END

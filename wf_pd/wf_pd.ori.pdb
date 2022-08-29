@@ -1,0 +1,38 @@
+REMARK  NONE *                                                                        
+REMARK   DATE:     8/17/22     15:39:58      CREATED BY USER: ping                    
+ATOM      1  CB  TRPS    1       3.272  -1.806   0.147  1.00  0.00      SEG1
+ATOM      2  HB1 TRPS    1       3.925  -1.021  -0.292  1.00  0.00      SEG1
+ATOM      3  HB2 TRPS    1       3.502  -2.750  -0.391  1.00  0.00      SEG1
+ATOM      4  HB3 TRPS    1       3.526  -1.930   1.221  1.00  0.00      SEG1
+ATOM      5  CG  TRPS    1       1.831  -1.374   0.017  1.00  0.00      SEG1
+ATOM      6  CD1 TRPS    1       0.695  -2.131   0.028  1.00  0.00      SEG1
+ATOM      7  HD1 TRPS    1       0.667  -3.210   0.071  1.00  0.00      SEG1
+ATOM      8  NE1 TRPS    1      -0.411  -1.312   0.019  1.00  0.00      SEG1
+ATOM      9  HE1 TRPS    1      -1.336  -1.623   0.057  1.00  0.00      SEG1
+ATOM     10  CE2 TRPS    1       0.000   0.000   0.000  1.00  0.00      SEG1
+ATOM     11  CD2 TRPS    1       1.400   0.000   0.000  1.00  0.00      SEG1
+ATOM     12  CE3 TRPS    1       2.125   1.160   0.000  1.00  0.00      SEG1
+ATOM     13  HE3 TRPS    1       3.205   1.160  -0.003  1.00  0.00      SEG1
+ATOM     14  CZ3 TRPS    1       1.437   2.351  -0.004  1.00  0.00      SEG1
+ATOM     15  HZ3 TRPS    1       1.977   3.286  -0.009  1.00  0.00      SEG1
+ATOM     16  CZ2 TRPS    1      -0.625   1.160  -0.004  1.00  0.00      SEG1
+ATOM     17  HZ2 TRPS    1      -1.705   1.160  -0.003  1.00  0.00      SEG1
+ATOM     18  CH2 TRPS    1       0.062   2.351  -0.006  1.00  0.00      SEG1
+ATOM     19  HH2 TRPS    1      -0.478   3.286  -0.011  1.00  0.00      SEG1
+ATOM     20  CB  PHES    2       3.127   4.761  13.440  1.00  0.00      SEG2
+ATOM     21  HB1 PHES    2       4.134   4.666  13.899  1.00  0.00      SEG2
+ATOM     22  HB2 PHES    2       2.583   5.576  13.962  1.00  0.00      SEG2
+ATOM     23  HB3 PHES    2       3.242   5.031  12.368  1.00  0.00      SEG2
+ATOM     24  CG  PHES    2       2.436   3.442  13.498  1.00  0.00      SEG2
+ATOM     25  CD1 PHES    2       3.123   2.251  13.500  1.00  0.00      SEG2
+ATOM     26  HD1 PHES    2       4.203   2.251  13.497  1.00  0.00      SEG2
+ATOM     27  CE1 PHES    2       2.436   1.061  13.500  1.00  0.00      SEG2
+ATOM     28  HE1 PHES    2       2.976   0.125  13.505  1.00  0.00      SEG2
+ATOM     29  CZ  PHES    2       1.061   1.061  13.500  1.00  0.00      SEG2
+ATOM     30  HZ  PHES    2       0.515   0.129  13.502  1.00  0.00      SEG2
+ATOM     31  CD2 PHES    2       1.065   3.331  13.511  1.00  0.00      SEG2
+ATOM     32  HD2 PHES    2       0.451   4.220  13.503  1.00  0.00      SEG2
+ATOM     33  CE2 PHES    2       0.476   2.089  13.507  1.00  0.00      SEG2
+ATOM     34  HE2 PHES    2      -0.601   2.002  13.509  1.00  0.00      SEG2
+TER      35      PHES     2
+END

@@ -1,0 +1,39 @@
+REMARK  NONE *                                                                        
+REMARK   DATE:     8/12/22     10:17:18      CREATED BY USER: ping                    
+ATOM      1  CB  TRPS    1       3.272  -1.806   0.147  1.00  0.00      SEG1
+ATOM      2  HB1 TRPS    1       3.925  -1.021  -0.292  1.00  0.00      SEG1
+ATOM      3  HB2 TRPS    1       3.502  -2.750  -0.391  1.00  0.00      SEG1
+ATOM      4  HB3 TRPS    1       3.526  -1.930   1.221  1.00  0.00      SEG1
+ATOM      5  CG  TRPS    1       1.831  -1.374   0.017  1.00  0.00      SEG1
+ATOM      6  CD1 TRPS    1       0.695  -2.131   0.028  1.00  0.00      SEG1
+ATOM      7  HD1 TRPS    1       0.667  -3.210   0.071  1.00  0.00      SEG1
+ATOM      8  NE1 TRPS    1      -0.411  -1.312   0.019  1.00  0.00      SEG1
+ATOM      9  HE1 TRPS    1      -1.336  -1.623   0.057  1.00  0.00      SEG1
+ATOM     10  CE2 TRPS    1       0.000   0.000   0.000  1.00  0.00      SEG1
+ATOM     11  CD2 TRPS    1       1.400   0.000   0.000  1.00  0.00      SEG1
+ATOM     12  CE3 TRPS    1       2.125   1.160   0.000  1.00  0.00      SEG1
+ATOM     13  HE3 TRPS    1       3.205   1.160  -0.003  1.00  0.00      SEG1
+ATOM     14  CZ3 TRPS    1       1.437   2.351  -0.004  1.00  0.00      SEG1
+ATOM     15  HZ3 TRPS    1       1.977   3.286  -0.009  1.00  0.00      SEG1
+ATOM     16  CZ2 TRPS    1      -0.625   1.160  -0.004  1.00  0.00      SEG1
+ATOM     17  HZ2 TRPS    1      -1.705   1.160  -0.003  1.00  0.00      SEG1
+ATOM     18  CH2 TRPS    1       0.062   2.351  -0.006  1.00  0.00      SEG1
+ATOM     19  HH2 TRPS    1      -0.478   3.286  -0.011  1.00  0.00      SEG1
+ATOM     20  CB  TYRS    2       2.937   1.303  16.359  1.00  0.00      SEG2
+ATOM     21  HB1 TYRS    2       3.782   0.868  15.783  1.00  0.00      SEG2
+ATOM     22  HB2 TYRS    2       2.882   0.782  17.338  1.00  0.00      SEG2
+ATOM     23  HB3 TYRS    2       3.137   2.382  16.534  1.00  0.00      SEG2
+ATOM     24  CG  TYRS    2       1.682   1.204  15.563  1.00  0.00      SEG2
+ATOM     25  CD1 TYRS    2       1.682   1.200  14.188  1.00  0.00      SEG2
+ATOM     26  HD1 TYRS    2       2.617   1.214  13.648  1.00  0.00      SEG2
+ATOM     27  CE1 TYRS    2       0.491   1.200  13.500  1.00  0.00      SEG2
+ATOM     28  HE1 TYRS    2       0.491   1.206  12.421  1.00  0.00      SEG2
+ATOM     29  CZ  TYRS    2      -0.700   1.200  14.188  1.00  0.00      SEG2
+ATOM     30  OH  TYRS    2      -1.926   1.238  13.491  1.00  0.00      SEG2
+ATOM     31  HH  TYRS    2      -2.635   1.159  14.134  1.00  0.00      SEG2
+ATOM     32  CD2 TYRS    2       0.439   1.182  16.151  1.00  0.00      SEG2
+ATOM     33  HD2 TYRS    2       0.350   1.200  17.227  1.00  0.00      SEG2
+ATOM     34  CE2 TYRS    2      -0.692   1.186  15.369  1.00  0.00      SEG2
+ATOM     35  HE2 TYRS    2      -1.668   1.198  15.831  1.00  0.00      SEG2
+TER      36      TYRS     2
+END

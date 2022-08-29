@@ -1,0 +1,39 @@
+REMARK  NONE *                                                                        
+REMARK   DATE:     8/13/22     11:40:50      CREATED BY USER: ping                    
+ATOM      1  CL  ALAD    1      -0.000  -4.663  -0.393  1.00  0.00      SEG1
+ATOM      2  HL1 ALAD    1      -0.000  -5.670  -0.863  1.00  0.00      SEG1
+ATOM      3  HL2 ALAD    1      -0.907  -4.550   0.238  1.00  0.00      SEG1
+ATOM      4  HL3 ALAD    1       0.907  -4.550   0.238  1.00  0.00      SEG1
+ATOM      5  CLP ALAD    1      -0.000  -3.619  -1.456  1.00  0.00      SEG1
+ATOM      6  OL  ALAD    1      -0.000  -3.927  -2.647  1.00  0.00      SEG1
+ATOM      7  NL  ALAD    1      -0.000  -2.341  -1.041  1.00  0.00      SEG1
+ATOM      8  HL  ALAD    1      -0.000  -2.082  -0.078  1.00  0.00      SEG1
+ATOM      9  CA  ALAD    1      -0.000  -1.277  -1.997  1.00  0.00      SEG1
+ATOM     10  HA  ALAD    1       0.882  -1.324  -2.619  1.00  0.00      SEG1
+ATOM     11  CB  ALAD    1      -1.267  -1.308  -2.869  1.00  0.00      SEG1
+ATOM     12  HB1 ALAD    1      -2.173  -1.259  -2.228  1.00  0.00      SEG1
+ATOM     13  HB2 ALAD    1      -1.245  -0.475  -3.604  1.00  0.00      SEG1
+ATOM     14  HB3 ALAD    1      -1.302  -2.249  -3.458  1.00  0.00      SEG1
+ATOM     15  CRP ALAD    1      -0.000   0.000  -1.230  1.00  0.00      SEG1
+ATOM     16  OR  ALAD    1      -0.000   0.000   0.000  1.00  0.00      SEG1
+ATOM     17  NR  ALAD    1      -0.000   1.134  -1.953  1.00  0.00      SEG1
+ATOM     18  HR  ALAD    1      -0.000   1.143  -2.950  1.00  0.00      SEG1
+ATOM     19  CR  ALAD    1      -0.000   2.403  -1.292  1.00  0.00      SEG1
+ATOM     20  HR1 ALAD    1      -0.000   3.215  -2.050  1.00  0.00      SEG1
+ATOM     21  HR2 ALAD    1       0.907   2.490  -0.657  1.00  0.00      SEG1
+ATOM     22  HR3 ALAD    1      -0.907   2.490  -0.657  1.00  0.00      SEG1
+ATOM     23  CB  HSPS    2       2.497   0.086  14.746  1.00  0.00      SEG2
+ATOM     24  HB1 HSPS    2       2.567  -0.387  13.743  1.00  0.00      SEG2
+ATOM     25  HB2 HSPS    2       3.222  -0.446  15.399  1.00  0.00      SEG2
+ATOM     26  HB3 HSPS    2       2.799   1.152  14.665  1.00  0.00      SEG2
+ATOM     27  CD2 HSPS    2       0.666   0.178  16.579  1.00  0.00      SEG2
+ATOM     28  HD2 HSPS    2       1.225   0.318  17.496  1.00  0.00      SEG2
+ATOM     29  CG  HSPS    2       1.107   0.000  15.305  1.00  0.00      SEG2
+ATOM     30  NE2 HSPS    2      -0.699   0.282  16.543  1.00  0.00      SEG2
+ATOM     31  HE2 HSPS    2      -1.293   0.504  17.316  1.00  0.00      SEG2
+ATOM     32  ND1 HSPS    2       0.000   0.000  14.500  1.00  0.00      SEG2
+ATOM     33  HD1 HSPS    2       0.000   0.000  13.500  1.00  0.00      SEG2
+ATOM     34  CE1 HSPS    2      -1.060   0.186  15.265  1.00  0.00      SEG2
+ATOM     35  HE1 HSPS    2      -2.071   0.276  14.927  1.00  0.00      SEG2
+TER      36      HSPS     2
+END
