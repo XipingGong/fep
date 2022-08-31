@@ -6,19 +6,19 @@
 
 
 # 1. setting
-pdbid=ala2
-atom1=HL
-atom2=OR
+pdbid=$2 #ala2
+atom1=$3 #HL
+atom2=$4 #OR
 BOXSIZEX=2.660
 BOXSIZEY=2.660
 BOXSIZEZ=3.600
-deviceid=0
-nrun=50 # nsamples of each window
+deviceid=$5 #0
+nrun=$6 #50 # nsamples of each window
 
 # clean
 shopt -s extglob
 if [ $1 == 'clean' ]; then
-   rm !("chm36m.sh"|*.pmf)
+   rm !(*Gong2022.pmf)
 fi
 
 # 2. generate gromacs topology and structure for vac and solvate systems
@@ -33,6 +33,12 @@ if [ $1 == 'genstr' ]; then
    $gmx pdb2gmx -f $pdbid.box.pdb -o $pdbid.box.gro -p $pdbid.solv.top -ff charmm36-feb2021-addsidechain -water tip3p
    $gmx solvate -cp $pdbid.box.gro -o $pdbid.solv.gro -p $pdbid.solv.top
    $gmx editconf -f $pdbid.solv.gro -o $pdbid.solv.pdb
+   # modify pdbs
+   sed -i 's/1HH1/HH11/g' $pdbid.*.pdb
+   sed -i 's/2HH1/HH12/g' $pdbid.*.pdb
+   sed -i 's/1HH2/HH21/g' $pdbid.*.pdb
+   sed -i 's/2HH2/HH22/g' $pdbid.*.pdb
+   # remove
    rm posre.itp
    rm *.box.*
    rm \#*

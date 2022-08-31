@@ -1,0 +1,12 @@
+c36m:
+HT: charge=0.417e, sigma=0.0400013524445 nm, epsilon=0.192464 kJ/mol = 0.046 kcal/mol
+OT: charge=-0.834e, sigma=0.315057422683 nm, epsilon=0.6363864 kJ/mol
+
+c36mw: it only changed the eps parameter of HT atom type for the p-w interaction
+w-w: the parameters are the same as c36m, it used NBFix, that is,
+HT    HT 1          sigma12=0.0400013524445 nm  epsilon12=0.192464 KJ/mol
+HT    OT 1          sigma12=0.17752938756375 nm epsilon12=0.34997452044398889353 KJ/mol
+p-w:
+HT: charge=0.417e, sigma=0.0400013524445 nm, epsilon=0.4184 kJ/mol = 0.1 kcal/mol
+OT: charge=-0.834e, sigma=0.315057422683 nm, epsilon=0.6363864 kJ/mol
+

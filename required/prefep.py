@@ -144,6 +144,11 @@ for inx in inx_pp:
     q12 = q1*q2
     sig12 = (sig1+sig2)*0.5e0
     eps12 = unit.Quantity.sqrt(eps1*eps2)
+    type1 = top.atoms[p1].type
+    type2 = top.atoms[p2].type
+    if (type1=='OB' and type2=='HB') or (type1=='HB' and type2=='OB'):
+        sig12 = 0.15e0
+        eps12 = 1.2552e0 # OB HB 1 0.150 1.2552
     forceEvac.addBond(p1,p2,[q12,sig12,eps12])
 systemEvac.addForce(forceEvac)
 # Eele_pw
