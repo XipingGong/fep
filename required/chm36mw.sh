@@ -14,6 +14,8 @@ BOXSIZEY=2.660
 BOXSIZEZ=3.600
 deviceid=$5 #0
 nrun=$6 #50 # nsamples of each window
+#gmx='/home/ping/Work/GROMACS/gromacs-2019.2/build/bin/gmx'
+gmx='/home/zgjia/Software/gromacs/gromacs514GPU_plumed/bin/gmx_mpi'
 
 # clean
 shopt -s extglob
@@ -23,7 +25,6 @@ fi
 
 # 2. generate gromacs topology and structure for vac and solvate systems
 if [ $1 == 'genstr' ]; then
-   gmx='/home/ping/Work/GROMACS/gromacs-2019.2/build/bin/gmx'
    export GMXLIB=../../required
    $gmx editconf -f ../$pdbid.ori.pdb -box $BOXSIZEX $BOXSIZEY $BOXSIZEZ -o $pdbid.box.pdb
    # vac
@@ -38,6 +39,10 @@ if [ $1 == 'genstr' ]; then
    sed -i 's/2HH1/HH12/g' $pdbid.*.pdb
    sed -i 's/1HH2/HH21/g' $pdbid.*.pdb
    sed -i 's/2HH2/HH22/g' $pdbid.*.pdb
+   sed -i 's/1HE1/HE11/g' $pdbid.*.pdb
+   sed -i 's/2HE1/HE12/g' $pdbid.*.pdb
+   sed -i 's/1HE2/HE21/g' $pdbid.*.pdb
+   sed -i 's/2HE2/HE22/g' $pdbid.*.pdb
    # remove
    rm posre.itp
    rm *.box.*

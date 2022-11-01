@@ -47,6 +47,15 @@ def calcEvac():
     for force in system.getForces():
         print("# system force: ", force)
 
+    # print out parameters
+    natom = len(top.atoms)
+    for k in range(0,natom):
+        q = top.atoms[k].ucharge
+        sig = top.atoms[k].usigma
+        eps = top.atoms[k].uepsilon
+        atype = top.atoms[k].type
+        print(atype, q, sig, eps)
+
     # extra a systemEtot
     systemEtot = top.createSystem(nonbondedMethod=app.NoCutoff)
     forces = systemEtot.getForces()
