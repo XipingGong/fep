@@ -15,5 +15,5 @@ or
 
 $ firefox fep.html
 
-which generated from "jupyter nbconvert fep.ipynb --to html_toc --ExtractOutputPreprocessor.enabled=False"
+which can be generated from "jupyter nbconvert fep.ipynb --to html_toc --ExtractOutputPreprocessor.enabled=False"
 
